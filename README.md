@@ -1,5 +1,11 @@
 eeZeeBigTiny is a breakout & target board for the ATtiny4313 family of 20-pin MCUs.
 
+# Where to Buy
+Purchase eeZeeBigTiny on [Tindie](https://www.tindie.com/stores/bot_thoughts/).
+
+# Assembly Instructions
+See: [HowToAssemble.pdf](https://github.com/shimniok/eeZeeBigTiny/raw/master/documentation/HowToAssemble.pdf)
+
 # Writing Software
 To write code for ATtiny, you can use:
 
