@@ -1,4 +1,4 @@
-PRG            = larsen
+PRG            = larson
 OBJ            = main.o
 PROGRAMMER     = dragon_isp
 PORT           = usb
