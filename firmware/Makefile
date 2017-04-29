@@ -1,9 +1,9 @@
-PRG            = eeZeeMedTinyTest
+PRG            = larsen
 OBJ            = main.o
-PROGRAMMER     = jtag2isp
+PROGRAMMER     = dragon_isp
 PORT           = usb
-MCU_TARGET     = attiny2313
-AVRDUDE_TARGET = t2313
+MCU_TARGET     = attiny4313
+AVRDUDE_TARGET = $(MCU_TARGET)
 OPTIMIZE       = -Os
 DEFS           =
 LIBS           =
